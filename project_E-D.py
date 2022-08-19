@@ -23,7 +23,7 @@ f1 = Frame(root, width=700, relief=SUNKEN)
 f1.pack(side=LEFT)
 
 # ==============================================
-
+#..........................................
 
 lblInfo = Label(Tops, font=('helvetica', 30, 'bold'),
                 text="SECRET MESSAGING \n Encryption & Decryption \n _______________________________________________",
